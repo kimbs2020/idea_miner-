@@ -45,3 +45,4 @@ The application will not:
   9). Copy or republish Reddit content as a separate content service.
 
 Reddit content will be used only to identify general trends, public discussions, user needs, and possible independent software-development opportunities. Each result will retain a link to the original Reddit post.
+

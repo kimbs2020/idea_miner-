@@ -7,6 +7,7 @@ This project is currently in the planning and early development stage. It will b
 The purpose of this application is to help a single authorized user discover useful public discussions, emerging news, technical information, common user problems, and potential software or product development ideas across Reddit communities.
 The application is intended to be a personal, non-commercial research and information-discovery tool.
 
+
 2. Planned Features
 The application will use Reddit's official Data API through OAuth authentication to:
 
@@ -33,24 +34,38 @@ The exact list of subreddits has not yet been finalized and will be selected dur
 
 3. Development
   1). Programming language: Python
+   
   2). Authentication: Reddit OAuth
+  
   3). Data source: Reddit Data API
+  
   4). Intended users: One authorized user
+  
   5). Intended use: Personal and non-commercial
 
-4. Data Use and Restrictions
+
+5. Data Use and Restrictions
 The application will access only publicly available Reddit content and will comply with Reddit's API rate limits and applicable data-use requirements.
 The application will not:
 
   1). Automatically submit posts or comments.
+  
   2). Vote on Reddit content.
+  
   3). Send private messages.
+  
   4). Access private or restricted subreddits.
+  
   5). Collect private user information.
+  
   6). Circumvent API restrictions or rate limits.
+  
   7). Sell or redistribute Reddit data.
+  
   8). Use Reddit content to train an AI model.
+  
   9). Copy or republish Reddit content as a separate content service.
+
 
 Reddit content will be used only to identify general trends, public discussions, user needs, and possible independent software-development opportunities. Each result will retain a link to the original Reddit post.
 

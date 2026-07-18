@@ -11,13 +11,21 @@ The application is intended to be a personal, non-commercial research and inform
 The application will use Reddit's official Data API through OAuth authentication to:
 
   1). Periodically search publicly available Reddit posts using user-defined keywords.
+  
   2). Search selected public subreddits related to technology, software development, startups, artificial intelligence, science, business, and news.
+  
   3). Retrieve only the public information required for discovery and review.
+  
   4). Filter posts based on keyword relevance.
+  
   5). Remove duplicate or previously reviewed results.
+  
   6). Organize relevant posts for personal review.
+  
   7). Translate selected content into Korean.
+  
   8). Generate brief Korean summaries.
+  
   9). Provide direct links to the original Reddit posts.
 
 The exact list of subreddits has not yet been finalized and will be selected during development based on the research topics and keywords being used.

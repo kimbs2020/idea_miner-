@@ -10,4 +10,5 @@ This project is currently in the planning and early development stage. It will b
    The application is intended to be a personal, non-commercial research and information-discovery tool.
 
 2. Planned Features
+   
    The application will use Reddit's official Data API through OAuth authentication to:

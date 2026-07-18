@@ -1,13 +1,19 @@
 Reddit News and Idea Finder
+
 Project Status
+
 This project is currently in the planning and early development stage. It will be developed in Python after Reddit Data API access requirements are confirmed.
 
+
 1. Purpose
+
 The purpose of this application is to help a single authorized user discover useful public discussions, emerging news, technical information, common user problems, and potential software or product development ideas across Reddit communities.
+
 The application is intended to be a personal, non-commercial research and information-discovery tool.
 
 
 2. Planned Features
+
 The application will use Reddit's official Data API through OAuth authentication to:
 
   1). Periodically search publicly available Reddit posts using user-defined keywords.
@@ -45,7 +51,9 @@ The exact list of subreddits has not yet been finalized and will be selected dur
 
 
 5. Data Use and Restrictions
+
 The application will access only publicly available Reddit content and will comply with Reddit's API rate limits and applicable data-use requirements.
+
 The application will not:
 
   1). Automatically submit posts or comments.
